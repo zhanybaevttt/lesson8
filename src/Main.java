@@ -31,7 +31,6 @@ public class Main {
 //        System.out.println(c);
         // int [] array = new int[5]; // [5] = 5 ge barabar {1,2,3,4,5,}
 
-
 //        int [] intMassive = {1,2,3,4,5,6,7};
 //        char[] chrarray = new char[]{'*', '%' , '^'};
 //
